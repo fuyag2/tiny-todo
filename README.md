@@ -3,7 +3,7 @@
 A lightweight, offline-first task manager for people who hate task managers.
 
 ```
-< 5 MB   ~0% CPU   0 trackers   100% offline
+< 20 MB   ~0% CPU   0 trackers   100% offline
 ```
 
 ---
